@@ -1,7 +1,7 @@
 # AdventureOf_Flavors
 Here you can share your personal experiences in different restaurants all around the world.
-- Sovelluksessa käyttäjä voi jakaa kokemuksia erilaisista ravintoloista. Ilmoituksessa lukee, mikä on ravintolan nimi, sijainti(kaupunki ja maa), ruokalaji(minkä maalainen ruoka,    esim. aasialainen, italialainen), aukioloaika, sekä ruokailun kustannukset. Myös käyttäjä voi lisätä ravintolalle arvion asteikosta 0-5. 
-- Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen. 
+- Sovelluksessa käyttäjä voi jakaa kokemuksia erilaisista ravintoloista. Ilmoituksessa lukee, mikä on ravintolan nimi, sijainti(kaupunki ja maa), ruokalaji(minkä maalainen ruoka,    esim. aasialainen, italialainen), aukioloaika, sekä ruokailun kustannukset. Myös käyttäjä voi lisätä ravintolalle arvion asteikosta 0-5 
+- Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen 
 - Käyttäjä pystyy lisäämään ilmoituksia, sekä muokkaamaan ja poistamaan niitä
 - Käyttäjä näkee sovellukseen lisätyt ilmoitukset
 - Käyttäjä pystyy etsimään ilmoituksia ravintolan nimen ja/tai sijainnin mukaan
